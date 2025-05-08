@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Ranger Green", "hex": "#4B5842" },
+    { "id": 2, "name": "Slate", "hex": "#3E4A59" },
+    { "id": 3, "name": "Melon", "hex": "#FF8F7E" },
+    { "id": 4, "name": "Toffee", "hex": "#D29A5B" }
+  ]
