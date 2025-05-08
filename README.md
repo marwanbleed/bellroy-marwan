@@ -6,19 +6,6 @@ Tech: Elm (with Elm Architecture), responsive CSS, mock data fetch
 
 This is a self-contained Elm project that recreates a simplified color selection component, inspired by Bellroy's UI. The project demonstrates clean Elm architecture, dynamic data fetching, responsive layout, and modular code organization.
 
-## 📁 Project Structure
-
-
-elm-color-selector/
-├── elm.json                  # Elm project configuration
-├── src/
-│   ├── Main.elm              # Main entry point (initialization & structure)
-│   └── ColorSelector.elm     # Reusable color selector component
-├── colors.json               # Mocked external color data (fetched via Http)
-├── index.html                # Loads compiled Elm app
-└── README.md                 # You're reading it!
-
-
 
 getting_started:
   - step: "Compile the Elm code"
